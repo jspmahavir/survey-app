@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Home",
+    "icon": {
+      "class": "icofont-home"
+    },
+    "routing": "dashboard"
+  },
+  {
+    "title": "Surveys",
+    "groupTitle": true
+  },
+  {
+    "title": "Survey Builder",
+    "icon": {
+      "class": "icofont-library"
+    },
+    "routing": "survey-builder"
+  },
+  {
+    "title": "Forms Builder",
+    "icon": {
+      "class": "icofont-interface"
+    },
+    "routing": "form-builder"
+  },
+  {
+    "title": "Statistics",
+    "groupTitle": true
+  },
+  {
+    "title": "Data Analytics",
+    "icon": {
+      "class": "icofont-chart-pie"
+    },
+    "routing": "data-analytics"
+  },
+  {
+    "title": "Templates",
+    "groupTitle": true
+  },
+  {
+    "title": "Template gallary",
+    "icon": {
+      "class": "icofont-interface"
+    },
+    "routing": "template-gallary"
+  },
+  {
+    "title": "Referentials",
+    "icon": {
+      "class": "icofont-referee"
+    },
+    "routing": "referential"
+  },
+  {
+    "title": "Survey Page",
+    "icon": {
+      "class": "icofont-home"
+    },
+    "routing": "survey-page"
+  }
+]
