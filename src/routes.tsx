@@ -364,9 +364,9 @@ export const routes: IRoute[] = [
     component: PublicLayout,
     children: publicRoutes
   },
-  // {
-  //   path: '/',
-  //   component: Layout,
-  //   children: defaultRoutes
-  // }
+  {
+    path: '/',
+    component: Layout,
+    children: defaultRoutes
+  }
 ];
