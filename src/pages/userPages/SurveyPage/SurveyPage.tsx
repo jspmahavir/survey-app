@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Avatar, Button, Card, Rate, Tag, Timeline, Table, Divider } from 'antd';
+import axios from 'axios';
 
 import { IPageData, IPageProps } from '../../../interfaces/page-data';
 import userCover from '../../../assets/content/user-profile.jpg';
@@ -23,7 +24,8 @@ const PageSurveyPage: React.FC<IPageProps> = props => {
   const [surveyData, setSurveyData] = useState([]);
   useEffect(() => {
     async function fetchData() {
-      const result = await API.get('surveys.json');
+      //const result = await API.get('surveys.json');
+      const result = await axios('./data/surveys.json');
       setSurveyData(result.data);
     }
     fetchData().catch(err => console.log('Server Error', err));

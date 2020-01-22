@@ -1,0 +1,613 @@
+[
+    {
+    "dateCreated": "2020-01-06T14:18:41+01:00",
+    "surveyForms": [
+    {
+    "form": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "formFields": [
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How likely is it that you would recommend this company to a friend or colleague?",
+    "description": "Description: How likely is it that you would recommend this company to a friend or colleague?"
+    },
+    "fr": {
+    "title": "Quelle est la probabilité que vous recommandiez cette entreprise à un ami ou un collègue?",
+    "description": "La description: Quelle est la probabilité que vous recommandiez cette entreprise à un ami ou un collègue?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Overall, how satisfied or dissatisfied are you with our company?",
+    "description": "Description: Overall, how satisfied or dissatisfied are you with our company?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Which of the following words would you use to describe our products? Select all that apply.",
+    "description": "Description: Which of the following words would you use to describe our products? Select all that apply."
+    }
+    }
+    },
+    "fieldset": null
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How long have you been a customer of our company?",
+    "description": "Description: How long have you been a customer of our company?"
+    }
+    }
+    },
+    "fieldset": null
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How Often Do you use this Product?",
+    "description": "Description: How Often Do you use this Product?"
+    }
+    }
+    },
+    "fieldset": null
+    }
+    ],
+    "translations": {
+    "en": {
+    "title": "Customer Feedback 2018",
+    "description": "Customer Feedback 2018 Description"
+    },
+    "fr": {
+    "title": "Commentaires des clients 2018",
+    "description": "Commentaires des clients 2018 Description"
+    }
+    }
+    }
+    },
+    {
+    "form": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "formFields": [
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Do you have any other comments, questions, or concerns?",
+    "description": "Description: Do you have any other comments, questions, or concerns?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Give your feedback on using this Product?",
+    "description": "Description: Give your feedback on using this Product?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How would you describe our product (or service) in one short sentence?",
+    "description": "Description: How would you describe our product (or service) in one short sentence?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Selling of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la vente de produits"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How, when and where will it be used?",
+    "description": "Description: How, when and where will it be used?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Selling of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la vente de produits"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How will they feel when the problem is solved?",
+    "description": "Description: How will they feel when the problem is solved?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Selling of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la vente de produits"
+    }
+    }
+    }
+    }
+    ],
+    "translations": {
+    "en": {
+    "title": "Customer Feedback 2019",
+    "description": "Customer Feedback 2019 Description"
+    }
+    }
+    }
+    }
+    ],
+    "translations": {
+    "en": {
+    "title": "Customer satisfaction 1",
+    "description": "real-time feedback to improve products, services, and business overall."
+    },
+    "fr": {
+    "title": "Satisfaction du client",
+    "description": "rétroaction en temps réel pour améliorer les produits, les services et les activités en général."
+    }
+    }
+    },
+    {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "surveyForms": [
+    {
+    "form": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "formFields": [
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How likely is it that you would recommend to a friend or family member?",
+    "description": "Description: How likely is it that you would recommend to a friend or family member?"
+    }
+    }
+    },
+    "fieldset": null
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How easy or difficult was it to schedule your appointment at a time that was convenient for you?",
+    "description": "Description: How easy or difficult was it to schedule your appointment at a time that was convenient for you?"
+    }
+    }
+    },
+    "fieldset": null
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Overall, how would you rate the service you received from the staff at Hopital?",
+    "description": "Description: Overall, how would you rate the service you received from the staff at Hopital?"
+    }
+    }
+    },
+    "fieldset": null
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Is there anything we could have done to improve your last visit?",
+    "description": "Description: Is there anything we could have done to improve your last visit?"
+    }
+    }
+    },
+    "fieldset": null
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Are you inspired by the purpose and mission of your organization?",
+    "description": "Description: Are you inspired by the purpose and mission of your organization?"
+    }
+    }
+    },
+    "fieldset": null
+    }
+    ],
+    "translations": {
+    "en": {
+    "title": "March 2018",
+    "description": "March 2018 Description"
+    }
+    }
+    }
+    }
+    ],
+    "translations": {
+    "en": {
+    "title": "Employee engagement",
+    "description": "Understand how to retain the best talent and build a healthy company culture."
+    }
+    }
+    },
+    {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "surveyForms": [
+    {
+    "form": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "formFields": [
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How will they feel when the problem is solved?",
+    "description": "Description: How will they feel when the problem is solved?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How will they feel when the problem is solved?",
+    "description": "Description: How will they feel when the problem is solved?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How will they feel when the problem is solved?",
+    "description": "Description: How will they feel when the problem is solved?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How will they feel when the problem is solved?",
+    "description": "Description: How will they feel when the problem is solved?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How will they feel when the problem is solved?",
+    "description": "Description: How will they feel when the problem is solved?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    }
+    ],
+    "translations": {
+    "en": {
+    "title": "Market Research - India",
+    "description": "Market Research - India Description"
+    }
+    }
+    }
+    }
+    ],
+    "translations": {
+    "en": {
+    "title": "Market research",
+    "description": "Keep track of industry and market trends to stay ahead of the competition."
+    }
+    }
+    },
+    {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "surveyForms": [
+    {
+    "form": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "formFields": [
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How will they feel when the problem is solved?",
+    "description": "Description: How will they feel when the problem is solved?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How will they feel when the problem is solved?",
+    "description": "Description: How will they feel when the problem is solved?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How will they feel when the problem is solved?",
+    "description": "Description: How will they feel when the problem is solved?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How will they feel when the problem is solved?",
+    "description": "Description: How will they feel when the problem is solved?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    },
+    {
+    "field": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "How will they feel when the problem is solved?",
+    "description": "Description: How will they feel when the problem is solved?"
+    }
+    }
+    },
+    "fieldset": {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "translations": {
+    "en": {
+    "title": "Market Research On Quality of Product"
+    },
+    "fr": {
+    "title": "Étude de marché sur la qualité du produit"
+    }
+    }
+    }
+    }
+    ],
+    "translations": {
+    "en": {
+    "title": "Pre Event",
+    "description": "Pre Event Description"
+    }
+    }
+    }
+    }
+    ],
+    "translations": {
+    "en": {
+    "title": "Event planning",
+    "description": "Gather feedback before, during (in real time!), and after your events."
+    }
+    }
+    },
+    {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "surveyForms": [],
+    "translations": {
+    "en": {
+    "title": "Health Care",
+    "description": "Support patient-provider communication by getting feedback."
+    }
+    }
+    },
+    {
+    "dateCreated": "2020-01-07T14:18:41+01:00",
+    "surveyForms": [],
+    "translations": {
+    "en": {
+    "title": "Student Satisfaction",
+    "description": "This is Student verification data"
+    }
+    }
+    }
+    ]
